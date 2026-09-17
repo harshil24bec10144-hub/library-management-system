@@ -1,0 +1,3 @@
+bookId,title,author,category,available
+B001,Java Programming,Herbert Schild,Programming,true
+B002,Effective data,Joshua Bloch,Programming,true
